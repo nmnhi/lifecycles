@@ -1,0 +1,12 @@
+.demo{
+    background-color: aquamarine;
+    height: 50px;
+    width: 500px;
+    text-align: center;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+}
+.site-text{
+    padding: 15px;
+}
